@@ -6,7 +6,7 @@
 ```bash
 git clone https://github.com/
 git add .
-git commit -m "Updated"
+git commit -m "Readme Updated"
 git push origin main
 ```
 
